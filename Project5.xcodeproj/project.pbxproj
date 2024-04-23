@@ -16,6 +16,7 @@
 		BDB45E232B8A234800EB2F62 /* Project5Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB45E222B8A234800EB2F62 /* Project5Tests.swift */; };
 		BDB45E2D2B8A234800EB2F62 /* Project5UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB45E2C2B8A234800EB2F62 /* Project5UITests.swift */; };
 		BDB45E2F2B8A234800EB2F62 /* Project5UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB45E2E2B8A234800EB2F62 /* Project5UITestsLaunchTests.swift */; };
+		BDB45E3C2B8A24CD00EB2F62 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = BDB45E3B2B8A24CD00EB2F62 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BDB45E282B8A234800EB2F62 /* Project5UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project5UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDB45E2C2B8A234800EB2F62 /* Project5UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project5UITests.swift; sourceTree = "<group>"; };
 		BDB45E2E2B8A234800EB2F62 /* Project5UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project5UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BDB45E3B2B8A24CD00EB2F62 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				BDB45E142B8A234700EB2F62 /* Assets.xcassets */,
 				BDB45E162B8A234700EB2F62 /* LaunchScreen.storyboard */,
 				BDB45E192B8A234700EB2F62 /* Info.plist */,
+				BDB45E3B2B8A24CD00EB2F62 /* start.txt */,
 			);
 			path = Project5;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BDB45E182B8A234700EB2F62 /* LaunchScreen.storyboard in Resources */,
+				BDB45E3C2B8A24CD00EB2F62 /* start.txt in Resources */,
 				BDB45E152B8A234700EB2F62 /* Assets.xcassets in Resources */,
 				BDB45E132B8A234300EB2F62 /* Main.storyboard in Resources */,
 			);
